@@ -2,7 +2,7 @@
 笔画分割数据集制作   
 将压缩包解压后放在文件夹中便可   
 [压缩包](https://pan.baidu.com/s/1mVzR82HDd0HelIljYQK-oA)   提取码: 7f0c   
-http://file.ypfont.com:8081/dzzoffice/index.php?mod=explorer#group&do=file&gid=36&fid=39452
+[仪品网盘](http://file.ypfont.com:8081/dzzoffice/index.php?mod=explorer#group&do=file&gid=36&fid=39452)
 # 如何运行   
 python get_stoke.py    
 
