@@ -1,6 +1,8 @@
 # stroke_datasets   
 笔画分割数据集制作   
 将压缩包解压后放在文件夹中便可   
+[压缩包](链接: https://pan.baidu.com/s/1mVzR82HDd0HelIljYQK-oA 提取码: 7f0c 
+--来自百度网盘超级会员v5的分享)   
 # 如何运行   
 python get_stoke.py    
 
